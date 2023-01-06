@@ -1,0 +1,13 @@
+
+altair
+docxtpl
+fsspec
+jupyterlab
+matplotlib
+pandas
+pandas_datareader
+pandas-ods-reader
+pandoc
+python-datetutil
+scipy
+yfinance
